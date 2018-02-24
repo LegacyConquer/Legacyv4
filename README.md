@@ -1,2 +1,2 @@
-# Legacyv4
+# Legacy v4
 Legacy Conquer v4
